@@ -7,4 +7,4 @@
 В даній роботі ми розглянемо бінарний аналіз тональності текстів українською за допомогою згорткової нейронної мережі,
 для якої векторні представлення слів були сформовані на основі навченої **Word2Vec** моделі.</br>
 ![Sentiment_analysis_main](https://github.com/t1pUr/software_engineering_template/blob/master/src/images/Sentiment%20analysis%20main.gif)
-<br>Джерело https://habrastorage.org/webt/2u/l3/lw/2ul3lwsbyobovjnol2g_cbvrghi.gif</br>
+<br>Джерело: https://habrastorage.org/webt/2u/l3/lw/2ul3lwsbyobovjnol2g_cbvrghi.gif</br>

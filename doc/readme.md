@@ -8,3 +8,14 @@
 для якої векторні представлення слів були сформовані на основі навченої **Word2Vec** моделі.</br>
 ![Sentiment_analysis_main](https://github.com/t1pUr/software_engineering_template/blob/master/src/images/Sentiment%20analysis%20main.gif)
 <br>Джерело: https://habrastorage.org/webt/2u/l3/lw/2ul3lwsbyobovjnol2g_cbvrghi.gif</br>
+<h2>
+Застосування згорткових нейронних мереж (Convolutional Neural Networks) для задач NLP
+</h2>
+<br>
+З самого початку згорткові нейронні мережі були призначені для розпізнавання та обробки зоображень. Через те, що вони влаштовані на зразок зорової кори головного мозку - тобто вміють концентруватися на невеликій області і виділяти в ній важливі особливості, CNN досягли значного успіху не тільки при роботі з зображеннями, але і для задач нейролінгвістичного програмування (Natural Language Processing, NLP).
+</br>
+<br>
+Що ж таке згортка? Розберемо приклад, а саме візуалізацію від Стенфорда:
+![Sentiment_analysis_main](https://github.com/t1pUr/software_engineering_template/blob/master/src/images/Sentiment%20analysis%20main.gif)
+<br>Джерело: https://habrastorage.org/getpro/habr/post_images/642/8cf/505/6428cf505ac1e9e1cf462e1ec8fe9a68.gif</br>
+</br>

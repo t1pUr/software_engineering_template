@@ -16,6 +16,6 @@
 </br>
 <br>
 Що ж таке згортка? Розберемо приклад, а саме візуалізацію від Стенфорда:
-![Sentiment_analysis_main](https://github.com/t1pUr/software_engineering_template/blob/master/src/images/Sentiment%20analysis%20main.gif)
+![Sentiment_analysis_main](https://github.com/t1pUr/software_engineering_template/blob/master/src/images/CNN_example.gif)
 <br>Джерело: https://habrastorage.org/getpro/habr/post_images/642/8cf/505/6428cf505ac1e9e1cf462e1ec8fe9a68.gif</br>
 </br>

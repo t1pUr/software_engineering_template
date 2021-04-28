@@ -31,9 +31,13 @@
 <br>Джерело: https://habrastorage.org/getpro/habr/post_images/e38/ee6/f95/e38ee6f954b7c7cea8f768c77eaff301.png</br>
 <br>Тепер трохи відступимо від цієї теми та перейдемо до ***word embededing***</br>
 <h2>
-Word embededing или векторное представление слов
+Word embedding або векторне представлення слів
 </h2>
 
 <br>
-
+Звідки береться сама задача word embedding?
+На жаль, поки що не існує єдиного терміна для цього поняття, тому ми будемо використовувати англомовний.
+Сам по собі embedding - це зіставлення довільної сутності (наприклад, вузла в графі або шматочка картинки) деякого вектору.
 </br>
+![Sentiment_analysis_main](https://github.com/t1pUr/software_engineering_template/blob/master/src/images/embedding.png)
+<br>Джерело: https://habrastorage.org/getpro/habr/post_images/3e8/12f/d16/3e812fd164a08f5e4f195000fecf988f.png</br>

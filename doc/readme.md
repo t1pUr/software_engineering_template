@@ -40,4 +40,4 @@ Word embedding або векторне представлення слів
 Сам по собі embedding - це зіставлення довільної сутності (наприклад, вузла в графі або шматочка картинки) деякого вектору.
 </br>
 ![Sentiment_analysis_main](https://github.com/t1pUr/software_engineering_template/blob/master/src/images/embedding.png)
-<br>Джерело: https://habrastorage.org/getpro/habr/post_images/3e8/12f/d16/3e812fd164a08f5e4f195000fecf988f.png</br>
+<br>Джерело: https://habrastorage.org/getpro/habr/post_images/3e8/12f/d16/3e812fd164a08f5e4f195000fecf988f.png</br> 

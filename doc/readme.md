@@ -48,3 +48,8 @@ Word embedding або векторне представлення слів
 <img src="https://github.com/t1pUr/software_engineering_template/blob/master/src/images/one_hot_encoding.png"  width="413" height="379">
 <br>Джерело: http://neerc.ifmo.ru/wiki/images/4/49/One-hot-encoding.png</br> 
 
+<br>Значення одного слова нам може бути і не так важливо, тому що мова (і усна, і письмова) складається з наборів слів, які ми називаємо текстами. Так що якщо ми захочемо якось уявити тексти, то ми візьмемо OHE-вектор кожного слова в тексті і складемо разом. Тобто на виході отримаємо просто підрахунок кількості різних слів у тексті в одному векторі. Такий підхід називається "мішок слів" (**bag of words**, BoW), тому що ми втрачаємо всю інформацію про взаємне розташування слів у тексті.</br>
+
+<img src="https://github.com/t1pUr/software_engineering_template/blob/master/src/images/bag_of_words.png">
+<br>Джерело: https://www.programmersought.com/images/947/0acb9279d17a1631bcfb154583cca443.JPEG</br> 
+

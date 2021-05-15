@@ -19,9 +19,6 @@ for i in range(len(corpus )):
     corpus [i] = re.sub(r'\W',' ',corpus [i])
     corpus [i] = re.sub(r'\s+',' ',corpus [i])
 
-print(corpus[2])
-print(len(corpus))
-
 bag_of_words = {}
 for sentence in corpus:
     tokens = nltk.word_tokenize(sentence)
@@ -30,7 +27,6 @@ for sentence in corpus:
             bag_of_words[token] = 1
         else:
             bag_of_words[token] += 1
-print(bag_of_words)
 
 pairs = []
 list_of_words = bag_of_words.keys()
@@ -39,6 +35,6 @@ for i in list_of_words:
 
 sorted_bag_of_words = reversed(sorted(pairs, key=lambda sort: sort[1]))
 for i in sorted_bag_of_words:
-    print(f"{i[0]} - {i[1]}")
+    print(f"{i[0]} - {i[1]}", end=";\t")
 
 

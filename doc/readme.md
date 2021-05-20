@@ -131,3 +131,10 @@ python - 150;	the - 144;	and - 131;	a - 109;	to - 84;	in - 83;	of - 83;	is - 78;
 
 <img src="https://github.com/t1pUr/software_engineering_template/blob/master/src/images/character_bus.png">
 <br>Джерело: https://habrastorage.org/getpro/habr/post_images/de5/380/b84/de5380b84dc9fec4bb8b52ebe6519e15.png</br>
+
+<br>При роботі з векторами схожість зазвичай обчислюється за геометричним коефіцієнтом:</br>
+
+<img src="https://github.com/t1pUr/software_engineering_template/blob/master/src/images/calculation_similarity.png">
+<br>Джерело: https://habrastorage.org/getpro/habr/post_images/640/e59/7dd/640e597dd741a28bcec986454633e31d.png</br>
+
+<br>Як бачимо, людина №1 більше схожа на мене за характером. Вектори в одному напрямку (довжина також важлива) дають більший геометричний коефіцієнт.</br>

@@ -121,3 +121,13 @@ python - 150;	the - 144;	and - 131;	a - 109;	to - 84;	in - 83;	of - 83;	is - 78;
 
 <img src="https://github.com/t1pUr/software_engineering_template/blob/master/src/images/extraversion.png">
 <br>Джерело: https://habrastorage.org/getpro/habr/post_images/b39/e23/ce1/b39e23ce1c036b11763e3c45c3659a3e.png</br>
+
+<br>Чесно кажучи, тільки по 1 характеристиці дкже важко дізнатися про людину, тому додамо ще одну характеристику, не називаючи її, щоб визначити характеристику людини в цілому</br>
+
+<img src="https://github.com/t1pUr/software_engineering_template/blob/master/src/images/character2.png">
+<br>Джерело: https://habrastorage.org/getpro/habr/post_images/2aa/ab2/ebc/2aaab2ebc1ff30f1fd832e5cf5bf9cb1.png</br>
+
+<br>Тепер можна сказати, що цей вектор характеризує якусь особистість. Це корисно, якщо порівнювати з іншими людьми. Припустимо, я водій червоного автобуса, яких з двох людей на графіку більш схожий на мене?</br>
+
+<img src="https://github.com/t1pUr/software_engineering_template/blob/master/src/images/character_bus.png">
+<br>Джерело: https://habrastorage.org/getpro/habr/post_images/de5/380/b84/de5380b84dc9fec4bb8b52ebe6519e15.png</br>

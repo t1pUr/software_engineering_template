@@ -165,3 +165,7 @@ python - 150;	the - 144;	and - 131;	a - 109;	to - 84;	in - 83;	of - 83;	is - 78;
 
 <img src="https://github.com/t1pUr/software_engineering_template/blob/master/src/images/queen.png">
 <br>Джерело: https://habrastorage.org/getpro/habr/post_images/a19/84b/fea/a1984bfeab5a597c6fb6300f7d694901.png</br>
+
+<br>Отриманий вектор від обчислення «король-чоловік + жінка» не зовсім дорівнює «королеві», але це найбільш близький результат з 400 000 вкладень слів в наборі даних.</br>
+
+

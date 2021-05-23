@@ -53,7 +53,7 @@ w2v_model.build_vocab(data)
 # навчаємо модель
 w2v_model.train(data, total_examples=w2v_model.corpus_count, epochs=30, report_delay=1)
 
-# приклади, за допомогою яких можна знаходити схожі слова
+# приклади, за допомогою яких можна знаходити схожі  слова
 print(w2v_model.wv.most_similar(positive=["любить"]))
 print(w2v_model.wv.most_similar(positive=["мужчина"]))
 print(w2v_model.wv.most_similar(positive=["день", "завтра"]))
